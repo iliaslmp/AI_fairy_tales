@@ -22,7 +22,7 @@ _Ευαγγέλου Δημήτριος_
 4. Μαρία - Ελένη Σιαμέτη<br/>
 5. Αλεξανδρα Μπαλαγιάννη
    
-[](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
+![](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
 
 ***Περιγραφή του έργου***
 Στο έργο χρησιμοποιήθηκε η τεχνητή νοημοσύνη για να γραφτούν παραμύθια και ιστορίες για παιδιά προσχολικής αγωγής.<br/>
