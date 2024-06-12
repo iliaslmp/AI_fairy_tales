@@ -2,7 +2,8 @@
 
 
 ***Φανταστικές ιστορίες και εικονογραφημένα παραμύθια από την τεχνητή νοημοσύνη***
-![alt text](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_2-248x300.png)
+
+![](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_2-248x300.png)
 
 ***Όνομα Ομάδας***
 ΑΙ Fairy Tales
