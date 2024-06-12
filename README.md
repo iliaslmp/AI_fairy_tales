@@ -174,8 +174,6 @@ _Ευαγγέλου Δημήτριος_
 
 
 
-
-***Βίντεο με παρουσιάση της κατασκευής από τους μαθητές.***
-
+![](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
 
 `Jan 12 2024`
