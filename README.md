@@ -20,11 +20,9 @@ _Ευαγγέλου Δημήτριος_
 2. Σπυριδούλα Παπακοσμά<br/>
 3. Στασινούλας Παύλος<br/>
 4. Μαρία - Ελένη Σιαμέτη<br/>
-5. Αλεξανδρα Μπαλαγιάννη
-[<br/>](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
+5. Αλεξανδρα Μπαλαγιάννη<br/><br/>
+[](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
 
-
-![](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_1-1.png)
 <br/>
 ***Περιγραφή του έργου***
 Στο έργο χρησιμοποιήθηκε η τεχνητή νοημοσύνη για να γραφτούν παραμύθια και ιστορίες για παιδιά προσχολικής αγωγής.<br/>
@@ -105,6 +103,7 @@ _Ευαγγέλου Δημήτριος_
 Επιστρέφει στον πραγματικό κόσμο γεμάτη από αναμνήσεις και εμπειρίες.
 <br/>
 ![](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_4.png)
+(https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
 <br/>
 Το παραμύθι εστιάζει στην περιπέτεια ενός μικρού κοριτσιού που ανακαλύπτει έναν μυστηριώδη κόσμο γεμάτο μαγεία. 
 Διαπραγματεύεται διάφορα θέματα όπως:
@@ -178,5 +177,6 @@ _Ευαγγέλου Δημήτριος_
 
 <br/>
 ![](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_13.png)
+
 <br/>
 `Jan 12 2024`
