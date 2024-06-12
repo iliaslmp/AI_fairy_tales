@@ -2,8 +2,7 @@
 
 
 ***Φανταστικές ιστορίες και εικονογραφημένα παραμύθια από την τεχνητή νοημοσύνη***
-
-![image]([https://github.com/iliaslmp/AI_fairy_tales/assets/6298606/1b36f47c-1fa3-49cf-87eb-40bf5e885d55](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_1-1.png))
+![alt text](https://openedtech.ellak.gr/wp-content/uploads/sites/31/2024/06/Screenshot_2-248x300.png)
 
 ***Όνομα Ομάδας***
 ΑΙ Fairy Tales
